@@ -1,3 +1,5 @@
+# class variable vs instance variable
+
 class Company:
     
     company_name = "ABC Corp"
